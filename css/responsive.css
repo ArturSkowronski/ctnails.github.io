@@ -180,6 +180,8 @@ px      68    160    252    */
     padding-bottom: 50px;
   }
 
+.navbar-toggle{display: none;}
+
   .pricing td { padding: 5px;}
   .pricing tr { border: 1px solid #0c7b81a2}
   #intro {
@@ -190,6 +192,8 @@ px      68    160    252    */
   #feature {
     padding-top: 20px;
     padding-bottom: 20px;
+  
+      background: none;
   }
   #slider .block {
     padding-left: 0px;

@@ -195,7 +195,6 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #4A4656;
 }
 #service .service-item h4 {
-  padding-top: 20px;
   margin: 0;
   color: #00393c;
 }
@@ -406,9 +405,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
   text-align: center;
 }
+
 #global-header .block h1 {
   font-weight: 100;
   font-size: 45px;
