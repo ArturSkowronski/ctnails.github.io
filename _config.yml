@@ -18,7 +18,7 @@ title: Classic Titanium Nails
 subtitle: "@ Agnieszka Piotrowska"
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "ctnails.github.io/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
