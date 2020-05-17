@@ -195,6 +195,10 @@ px      68    160    252    */
   
       background: none;
   }
+
+  #slider {
+    color: #0c7b81a2;
+  }
   #slider .block {
     padding-left: 0px;
   }
