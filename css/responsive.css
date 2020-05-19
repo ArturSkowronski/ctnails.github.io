@@ -181,9 +181,11 @@ px      68    160    252    */
   }
 
 .navbar-toggle{display: none;}
+#feature { color: #00393c}
 
-  .pricing td { padding: 5px;}
-  .pricing tr { border: 1px solid #0c7b81a2}
+#feature h2 { text-align: center;}
+.pricing td { padding: 5px; }
+  .pricing tr { border: 1px solid #00393c}
   #intro {
     padding-top: 20px;
     padding-bottom: 20px;
