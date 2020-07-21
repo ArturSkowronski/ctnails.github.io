@@ -147,6 +147,15 @@ font header .navbar-default .navbar-nav li a:hover {
   letter-spacing: 10px;
   padding-bottom: 45px;
 }
+
+#slider .block h4 {
+  font-family: 'Above the Beyond Script', serif;
+  font-weight: 100;
+  font-size: 20px;
+  line-height: 20px;
+  letter-spacing: 10px;
+  padding-bottom: 45px;
+}
 #slider .block p {
   font-size: 23px;
   line-height: 40px;

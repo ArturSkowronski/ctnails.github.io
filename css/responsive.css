@@ -208,6 +208,10 @@ px      68    160    252    */
     font-size: 20px;
     padding: 0px
   }
+  #slider .block h4 {
+    font-size: 15px;
+    padding: 0px
+  }
   #slider .block p {
     font-size: 13px;
     line-height: 25px;
